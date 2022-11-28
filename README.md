@@ -3,7 +3,7 @@
 I'm Renat, a self-taught data analyst from Russia.
 
 ### ✨ About Me in 30 Secs ✨
-- 👩🏻‍💻 Accountant turned data analyst
+- 👩🏻‍💻 Information security specialist want to become a data analyst and machine learning
 - 📊 Transition to data since **January 2022**
 - 📝 Taught myself SQL, Python
 
