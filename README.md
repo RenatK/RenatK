@@ -1,6 +1,6 @@
 ## Hi there! :wave:
 
-I'm Renat, a self-taught data analyst from Russia.
+I'm Renat, an analyst from Russia.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 Information security specialist want to become a data analyst and machine learning
