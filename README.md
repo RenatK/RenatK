@@ -1,4 +1,4 @@
-## Hi there! 🙋🏻‍
+## Hi there! :wave:
 
 I'm Renat, a self-taught data analyst from Russia.
 
