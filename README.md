@@ -10,6 +10,7 @@ I'm Renat, an analyst from Russia.
 ### 📚 Projects & Guides 📚
 - For my portfolio guide, click **[HERE](https://github.com/RenatK/RenatK/blob/master/README.md)**
 - First data analytics project. Click **[HERE](https://github.com/RenatK/DS_Project/blob/master/README.md)**
+- Second data analytics project. Click **[HERE](https://github.com/RenatK/DS_Project2/blob/master/README.md)**
 
 ### 💡 Core Competencies 💡
 - Tools: SQL, Python
